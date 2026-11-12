@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en"></html>
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <title>Laskuri</title>
@@ -15,6 +15,13 @@
   <form action="/reset" method="POST">
     <button type="submit">
       Nollaa
+    </button>
+  </form>
+  <form action="/set_value" method="POST">
+    Aseta arvo: <br/>
+    <input type="text" name="value" required/>
+    <button type="submit">
+      Aseta
     </button>
   </form>
 </body>

@@ -1,0 +1,110 @@
+{"level":30,"time":"2026-11-12T18:04:48.569Z","pid":52266,"hostname":"Saturn.local","msg":"Listening on 127.0.0.1:62254"}
+{"level":30,"time":"2026-11-12T18:04:49.655Z","pid":52266,"hostname":"Saturn.local","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2026-11-12T18:04:50.094Z","pid":52266,"hostname":"Saturn.local","msg":"Adding browser to stack: chromium, version: 141.0.7390.37"}
+{"level":30,"time":"2026-11-12T18:04:50.094Z","pid":52266,"hostname":"Saturn.local","msg":"Adding 0 contexts to browser"}
+{"level":30,"time":"2026-11-12T18:04:50.094Z","pid":52266,"hostname":"Saturn.local","msg":"End of node method newBrowser"}
+{"level":30,"time":"2026-11-12T18:04:50.100Z","pid":52266,"hostname":"Saturn.local","msg":"Start of node method newContext"}
+{"level":30,"time":"2026-11-12T18:04:50.101Z","pid":52266,"hostname":"Saturn.local","msg":"Creating new context with options: {\"acceptDownloads\":true,\"bypassCSP\":false,\"forcedColors\":\"none\",\"ignoreHTTPSErrors\":false,\"javaScriptEnabled\":true,\"offline\":false,\"reducedMotion\":\"no-preference\",\"serviceWorkers\":\"allow\",\"viewport\":{\"width\":1280,\"height\":720}}"}
+{"level":30,"time":"2026-11-12T18:04:50.101Z","pid":52266,"hostname":"Saturn.local","msg":"currentBrowser: {\"name\":\"chromium\",\"browser\":{\"_type\":\"Browser\",\"_guid\":\"browser@69de35255d7255b0ff3e3f69a0e87344\"},\"headless\":false,\"_contextStack\":[],\"id\":\"browser=43494f8c-ecf2-48b8-880a-b05c481abc93\"}"}
+{"level":30,"time":"2026-11-12T18:04:50.101Z","pid":52266,"hostname":"Saturn.local","msg":"Trace file: "}
+{"level":30,"time":"2026-11-12T18:04:50.109Z","pid":52266,"hostname":"Saturn.local","msg":"Setting default timeout for context context=494dda24-400a-48fc-9b40-b9c9f257c133 to 10000"}
+{"level":30,"time":"2026-11-12T18:04:50.109Z","pid":52266,"hostname":"Saturn.local","msg":"Changed active context: context=494dda24-400a-48fc-9b40-b9c9f257c133"}
+{"level":30,"time":"2026-11-12T18:04:50.109Z","pid":52266,"hostname":"Saturn.local","msg":"End of node method newContext"}
+{"level":30,"time":"2026-11-12T18:04:50.118Z","pid":52266,"hostname":"Saturn.local","msg":"Start of node method newPage"}
+{"level":30,"time":"2026-11-12T18:04:50.118Z","pid":52266,"hostname":"Saturn.local","msg":"currentBrowser: {\"name\":\"chromium\",\"browser\":{\"_type\":\"Browser\",\"_guid\":\"browser@69de35255d7255b0ff3e3f69a0e87344\"},\"headless\":false,\"_contextStack\":[{\"id\":\"context=494dda24-400a-48fc-9b40-b9c9f257c133\",\"c\":{\"_type\":\"BrowserContext\",\"_guid\":\"browser-context@30fca97794ab51d5e4cd0de540d9f6c6\"},\"pageStack\":[],\"options\":{\"acceptDownloads\":true,\"bypassCSP\":false,\"forcedColors\":\"none\",\"ignoreHTTPSErrors\":false,\"javaScriptEnabled\":true,\"offline\":false,\"reducedMotion\":\"no-preference\",\"serviceWorkers\":\"allow\",\"viewport\":{\"width\":1280,\"height\":720}},\"traceFile\":\"\"}],\"id\":\"browser=43494f8c-ecf2-48b8-880a-b05c481abc93\"}"}
+{"level":30,"time":"2026-11-12T18:04:50.641Z","pid":52266,"hostname":"Saturn.local","msg":"Video path: undefined"}
+{"level":30,"time":"2026-11-12T18:04:50.641Z","pid":52266,"hostname":"Saturn.local","msg":"Changed active page"}
+{"level":30,"time":"2026-11-12T18:04:51.182Z","pid":52266,"hostname":"Saturn.local","msg":"End of node method newPage"}
+{"level":30,"time":"2026-11-12T18:04:51.187Z","pid":52266,"hostname":"Saturn.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2026-11-12T18:04:51.193Z","pid":52266,"hostname":"Saturn.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2026-11-12T18:04:51.196Z","pid":52266,"hostname":"Saturn.local","msg":"Start of node method goTo"}
+{"level":30,"time":"2026-11-12T18:04:51.758Z","pid":52266,"hostname":"Saturn.local","msg":"End of node method goTo"}
+{"level":30,"time":"2026-11-12T18:04:51.763Z","pid":52266,"hostname":"Saturn.local","msg":"Start of node method click"}
+{"level":30,"time":"2026-11-12T18:04:51.764Z","pid":52266,"hostname":"Saturn.local","msg":"Strict mode is enabled, find Locator with text=Nollaa in page."}
+{"level":30,"time":"2026-11-12T18:04:52.380Z","pid":52266,"hostname":"Saturn.local","msg":"End of node method click"}
+{"level":30,"time":"2026-11-12T18:04:52.391Z","pid":52266,"hostname":"Saturn.local","msg":"Start of node method getText"}
+{"level":30,"time":"2026-11-12T18:04:52.392Z","pid":52266,"hostname":"Saturn.local","msg":"Strict mode is enabled, find Locator with body in page."}
+{"level":30,"time":"2026-11-12T18:04:52.425Z","pid":52266,"hostname":"Saturn.local","msg":"Retrieved text for element body containing Ohtulaskuri\nnappia painettu 0 kertaa\nPaina\nNollaa\nAseta arvo:\n Aseta"}
+{"level":30,"time":"2026-11-12T18:04:52.425Z","pid":52266,"hostname":"Saturn.local","msg":"End of node method getText"}
+{"level":30,"time":"2026-11-12T18:04:52.429Z","pid":52266,"hostname":"Saturn.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2026-11-12T18:04:52.430Z","pid":52266,"hostname":"Saturn.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2026-11-12T18:04:52.432Z","pid":52266,"hostname":"Saturn.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2026-11-12T18:04:52.433Z","pid":52266,"hostname":"Saturn.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2026-11-12T18:04:52.435Z","pid":52266,"hostname":"Saturn.local","msg":"Start of node method goTo"}
+{"level":30,"time":"2026-11-12T18:04:52.982Z","pid":52266,"hostname":"Saturn.local","msg":"End of node method goTo"}
+{"level":30,"time":"2026-11-12T18:04:52.986Z","pid":52266,"hostname":"Saturn.local","msg":"Start of node method click"}
+{"level":30,"time":"2026-11-12T18:04:52.986Z","pid":52266,"hostname":"Saturn.local","msg":"Strict mode is enabled, find Locator with text=Nollaa in page."}
+{"level":30,"time":"2026-11-12T18:04:53.599Z","pid":52266,"hostname":"Saturn.local","msg":"End of node method click"}
+{"level":30,"time":"2026-11-12T18:04:53.604Z","pid":52266,"hostname":"Saturn.local","msg":"Start of node method click"}
+{"level":30,"time":"2026-11-12T18:04:53.604Z","pid":52266,"hostname":"Saturn.local","msg":"Strict mode is enabled, find Locator with button >> text=Paina in page."}
+{"level":30,"time":"2026-11-12T18:04:54.211Z","pid":52266,"hostname":"Saturn.local","msg":"End of node method click"}
+{"level":30,"time":"2026-11-12T18:04:54.214Z","pid":52266,"hostname":"Saturn.local","msg":"Start of node method click"}
+{"level":30,"time":"2026-11-12T18:04:54.215Z","pid":52266,"hostname":"Saturn.local","msg":"Strict mode is enabled, find Locator with button >> text=Paina in page."}
+{"level":30,"time":"2026-11-12T18:04:54.826Z","pid":52266,"hostname":"Saturn.local","msg":"End of node method click"}
+{"level":30,"time":"2026-11-12T18:04:54.830Z","pid":52266,"hostname":"Saturn.local","msg":"Start of node method getText"}
+{"level":30,"time":"2026-11-12T18:04:54.830Z","pid":52266,"hostname":"Saturn.local","msg":"Strict mode is enabled, find Locator with body in page."}
+{"level":30,"time":"2026-11-12T18:04:54.855Z","pid":52266,"hostname":"Saturn.local","msg":"Retrieved text for element body containing Ohtulaskuri\nnappia painettu 2 kertaa\nPaina\nNollaa\nAseta arvo:\n Aseta"}
+{"level":30,"time":"2026-11-12T18:04:54.856Z","pid":52266,"hostname":"Saturn.local","msg":"End of node method getText"}
+{"level":30,"time":"2026-11-12T18:04:54.859Z","pid":52266,"hostname":"Saturn.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2026-11-12T18:04:54.860Z","pid":52266,"hostname":"Saturn.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2026-11-12T18:04:54.863Z","pid":52266,"hostname":"Saturn.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2026-11-12T18:04:54.864Z","pid":52266,"hostname":"Saturn.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2026-11-12T18:04:54.866Z","pid":52266,"hostname":"Saturn.local","msg":"Start of node method goTo"}
+{"level":30,"time":"2026-11-12T18:04:55.417Z","pid":52266,"hostname":"Saturn.local","msg":"End of node method goTo"}
+{"level":30,"time":"2026-11-12T18:04:55.422Z","pid":52266,"hostname":"Saturn.local","msg":"Start of node method click"}
+{"level":30,"time":"2026-11-12T18:04:55.422Z","pid":52266,"hostname":"Saturn.local","msg":"Strict mode is enabled, find Locator with text=Nollaa in page."}
+{"level":30,"time":"2026-11-12T18:04:56.027Z","pid":52266,"hostname":"Saturn.local","msg":"End of node method click"}
+{"level":30,"time":"2026-11-12T18:04:56.032Z","pid":52266,"hostname":"Saturn.local","msg":"Start of node method click"}
+{"level":30,"time":"2026-11-12T18:04:56.032Z","pid":52266,"hostname":"Saturn.local","msg":"Strict mode is enabled, find Locator with button >> text=Paina in page."}
+{"level":30,"time":"2026-11-12T18:04:56.633Z","pid":52266,"hostname":"Saturn.local","msg":"End of node method click"}
+{"level":30,"time":"2026-11-12T18:04:56.637Z","pid":52266,"hostname":"Saturn.local","msg":"Start of node method click"}
+{"level":30,"time":"2026-11-12T18:04:56.637Z","pid":52266,"hostname":"Saturn.local","msg":"Strict mode is enabled, find Locator with button >> text=Paina in page."}
+{"level":30,"time":"2026-11-12T18:04:57.244Z","pid":52266,"hostname":"Saturn.local","msg":"End of node method click"}
+{"level":30,"time":"2026-11-12T18:04:57.247Z","pid":52266,"hostname":"Saturn.local","msg":"Start of node method click"}
+{"level":30,"time":"2026-11-12T18:04:57.247Z","pid":52266,"hostname":"Saturn.local","msg":"Strict mode is enabled, find Locator with text=Nollaa in page."}
+{"level":30,"time":"2026-11-12T18:04:57.861Z","pid":52266,"hostname":"Saturn.local","msg":"End of node method click"}
+{"level":30,"time":"2026-11-12T18:04:57.865Z","pid":52266,"hostname":"Saturn.local","msg":"Start of node method getText"}
+{"level":30,"time":"2026-11-12T18:04:57.866Z","pid":52266,"hostname":"Saturn.local","msg":"Strict mode is enabled, find Locator with body in page."}
+{"level":30,"time":"2026-11-12T18:04:57.889Z","pid":52266,"hostname":"Saturn.local","msg":"Retrieved text for element body containing Ohtulaskuri\nnappia painettu 0 kertaa\nPaina\nNollaa\nAseta arvo:\n Aseta"}
+{"level":30,"time":"2026-11-12T18:04:57.889Z","pid":52266,"hostname":"Saturn.local","msg":"End of node method getText"}
+{"level":30,"time":"2026-11-12T18:04:57.892Z","pid":52266,"hostname":"Saturn.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2026-11-12T18:04:57.893Z","pid":52266,"hostname":"Saturn.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2026-11-12T18:04:57.895Z","pid":52266,"hostname":"Saturn.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2026-11-12T18:04:57.896Z","pid":52266,"hostname":"Saturn.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2026-11-12T18:04:57.899Z","pid":52266,"hostname":"Saturn.local","msg":"Start of node method goTo"}
+{"level":30,"time":"2026-11-12T18:04:58.447Z","pid":52266,"hostname":"Saturn.local","msg":"End of node method goTo"}
+{"level":30,"time":"2026-11-12T18:04:58.451Z","pid":52266,"hostname":"Saturn.local","msg":"Start of node method click"}
+{"level":30,"time":"2026-11-12T18:04:58.451Z","pid":52266,"hostname":"Saturn.local","msg":"Strict mode is enabled, find Locator with text=Nollaa in page."}
+{"level":30,"time":"2026-11-12T18:04:59.044Z","pid":52266,"hostname":"Saturn.local","msg":"End of node method click"}
+{"level":30,"time":"2026-11-12T18:04:59.048Z","pid":52266,"hostname":"Saturn.local","msg":"Start of node method fillText"}
+{"level":30,"time":"2026-11-12T18:04:59.048Z","pid":52266,"hostname":"Saturn.local","msg":"Strict mode is enabled, find Locator with input[name=\"value\"] in page."}
+{"level":30,"time":"2026-11-12T18:04:59.565Z","pid":52266,"hostname":"Saturn.local","msg":"End of node method fillText"}
+{"level":30,"time":"2026-11-12T18:04:59.570Z","pid":52266,"hostname":"Saturn.local","msg":"Start of node method click"}
+{"level":30,"time":"2026-11-12T18:04:59.570Z","pid":52266,"hostname":"Saturn.local","msg":"Strict mode is enabled, find Locator with button >> text=Aseta in page."}
+{"level":30,"time":"2026-11-12T18:05:00.166Z","pid":52266,"hostname":"Saturn.local","msg":"End of node method click"}
+{"level":30,"time":"2026-11-12T18:05:00.171Z","pid":52266,"hostname":"Saturn.local","msg":"Start of node method getText"}
+{"level":30,"time":"2026-11-12T18:05:00.171Z","pid":52266,"hostname":"Saturn.local","msg":"Strict mode is enabled, find Locator with body in page."}
+{"level":30,"time":"2026-11-12T18:05:00.195Z","pid":52266,"hostname":"Saturn.local","msg":"Retrieved text for element body containing Ohtulaskuri\nnappia painettu 10 kertaa\nPaina\nNollaa\nAseta arvo:\n Aseta"}
+{"level":30,"time":"2026-11-12T18:05:00.195Z","pid":52266,"hostname":"Saturn.local","msg":"End of node method getText"}
+{"level":30,"time":"2026-11-12T18:05:00.199Z","pid":52266,"hostname":"Saturn.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2026-11-12T18:05:00.200Z","pid":52266,"hostname":"Saturn.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2026-11-12T18:05:00.203Z","pid":52266,"hostname":"Saturn.local","msg":"Start of node method closeBrowser"}
+{"level":30,"time":"2026-11-12T18:05:00.210Z","pid":52266,"hostname":"Saturn.local","msg":"Removed page=aff09d79-59cd-449e-9170-a4c53a973303 from context=494dda24-400a-48fc-9b40-b9c9f257c133 page stack"}
+{"level":30,"time":"2026-11-12T18:05:00.491Z","pid":52266,"hostname":"Saturn.local","msg":"End of node method closeBrowser"}
+================= Original suppressed error =================
+Error: Browser has been closed.
+    at PlaywrightState.getActiveBrowser (/snapshot/robotframework-browser/Browser/wrapper/index.js:12547:15)
+    at PlaywrightServer.getActiveBrowser (/snapshot/robotframework-browser/Browser/wrapper/index.js:13497:59)
+    at PlaywrightServer.setTimeout (/snapshot/robotframework-browser/Browser/wrapper/index.js:13747:57)
+    at Object.onReceiveHalfClose (/snapshot/robotframework-browser/node_modules/@grpc/grpc-js/build/src/server.js:1464:25)
+    at BaseServerInterceptingCall.maybePushNextMessage (/snapshot/robotframework-browser/node_modules/@grpc/grpc-js/build/src/server-interceptors.js:595:31)
+    at BaseServerInterceptingCall.handleEndEvent (/snapshot/robotframework-browser/node_modules/@grpc/grpc-js/build/src/server-interceptors.js:635:14)
+    at ServerHttp2Stream.<anonymous> (/snapshot/robotframework-browser/node_modules/@grpc/grpc-js/build/src/server-interceptors.js:394:18)
+    at ServerHttp2Stream.emit (node:events:531:35)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+=============================================================
+{"level":30,"time":"2026-11-12T18:05:00.495Z","pid":52266,"hostname":"Saturn.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2026-11-12T18:05:00.495Z","pid":52266,"hostname":"Saturn.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2026-11-12T18:05:00.519Z","pid":52266,"hostname":"Saturn.local","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2026-11-12T18:05:00.519Z","pid":52266,"hostname":"Saturn.local","msg":"End of node method closeAllBrowsers"}
