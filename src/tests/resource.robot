@@ -17,3 +17,4 @@ Open And Configure Browser
     END
     New Context
     New Page  about:blank
+
