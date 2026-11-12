@@ -21,3 +21,14 @@ jobs:
         run: uv run rfbrowser install --with-deps chromium
       - name: Run robot tests
         run: bash run_robot_tests.sh
+      - name: Verify Playwright browser
+        run: |
+          uv run python - <<'PY'
+          from Browser.entry.constant import get_playwright_browser_path
+
+          browser_dir = get_playwright_browser_path()
+          shells = list(browser_dir.glob("chromium_headless_shell-*/chrome-linux/headless_shell"))
+          print(f"Playwright browser directory: {browser_dir}")
+          if not any(shell.is_file() for shell in shells):
+              raise SystemExit("Chromium headless shell was not installed")
+          PY
